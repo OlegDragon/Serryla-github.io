@@ -5,7 +5,7 @@ import requests
 
 TOKEN = "7753390143:AAHj_SalBwNYe6-hO4DdK7Qqlt8aK8fvgeQ"
 TONCENTER_API_URL = "https://toncenter.com/api/v2/"
-TONCENTER_API_KEY = "ТВОЙ_API_КЛЮЧ"
+TONCENTER_API_KEY = "7929acef3401314e40e8e24ee0af20e75a9c954ac738459fc58555c5e4b1d650"
 
 # Инициализация TON клиента
 client = TonlibClient(ls_index=0, config="testnet.config.json")
